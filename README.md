@@ -1,2 +1,3 @@
-# Hello-World
-print("Welcome to GitHub");
+# My First GitHub Project
+This is my first repository.
+I am learning GitHub
